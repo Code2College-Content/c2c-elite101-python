@@ -9,7 +9,7 @@ The project is meant to be a starter for your chatbot project.
 
 To use this project do the following:
 
-1. Fork this project
+1. Fork this project 
 2. From the code section of the repository click the green code button, select Codespaces
 tab in the popup and click the + button to create a codespace (you will be able to use this codespace
 in the browser or in a local installation of vs code) for more info [go here](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace)
