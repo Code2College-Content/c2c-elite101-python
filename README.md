@@ -5,4 +5,4 @@ This is a chatbot repository. More coming soon!
 
 ## Usage
 
-to run this program do the following in the terminak: 
+to run this program do the following in the terminal:
